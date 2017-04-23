@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>131014422343-ch26vfap00jh2d7brj2ab2uot9dbs6ns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.131014422343-ch26vfap00jh2d7brj2ab2uot9dbs6ns</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBC9XlumEwsrpBBVv9YhHG3TOo9qB7usHo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>131014422343</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Othman.Z2LChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>z2lchatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>z2lchatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:131014422343:ios:2ed4084b63ce0918</string>
+	<key>DATABASE_URL</key>
+	<string>https://z2lchatapp.firebaseio.com</string>
+</dict>
+</plist>
